@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DCGunKamsEk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER-PC\\Documents\\School\\PROG 2A\\POE Part 1\\POE Part1\\POE Part1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER-PC\\.nuget\\packages\\system.windows.extensions\\9.0.3\\system.windows.extensions.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
